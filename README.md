@@ -1,4 +1,4 @@
-# ai-frameworks
+# Отчёт
 
 ### Классификация
 
@@ -46,7 +46,7 @@ KNN показал худшие результаты ($R^2 < 0.48$). Для за
 | Decision Tree          | 865388.517  | 0.635 |
 | My Decision Tree       | 870330.527  | 0.632 |
 | Base Random Forest     | 973296.880  | 0.604 |
-| Random Forest          | 851915.502  | 0.641 |
+| Random Forest          | 857029.069  | 0.638 |
 | My Random Forest       | 1104519.680 | 0.446 |
 | Base Gradient Boosting | 963131.492  | 0.604 |
 | Gradient Boosting      | 850100.263  | 0.640 |
